@@ -103,8 +103,6 @@
 <br>
 <img src="https://img.shields.io/badge/Data%20Modeling-F3F4F6?style=flat-square&logoColor=black"/>
 <br>
-<img src="https://img.shields.io/badge/DAX-F3F4F6?style=flat-square&logoColor=black"/>
-<br>
 <img src="https://img.shields.io/badge/Visualizations-F3F4F6?style=flat-square&logoColor=black"/>
 <br>
 <img src="https://img.shields.io/badge/Dashboards-F3F4F6?style=flat-square&logoColor=black"/>
