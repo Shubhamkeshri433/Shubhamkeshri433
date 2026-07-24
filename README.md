@@ -22,10 +22,10 @@
 
 <p align= "center">
     <a>
-        <img src = "https://img.shields.io/badge/CGPA-6.5-FFB700?style=flat&logo=CGPA&logoColor=white">
+        <img src = "https://img.shields.io/badge/CGPA-7.35-FFB700?style=flat&logo=CGPA&logoColor=white">
     </a>
     <a>
-        <img src = "https://img.shields.io/badge/SGPA-7.8-Blue?style=flat&logo=SGPA&logoColor=white">
+        <img src = "https://img.shields.io/badge/SGPA-7.00-Blue?style=flat&logo=SGPA&logoColor=white">
     </a>
     <a>
         <img src = "https://img.shields.io/badge/Year-2nd_Year_UnderGraduate-0047AB?style=flat&logo=Year&logoColor=white">
