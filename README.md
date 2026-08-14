@@ -48,10 +48,10 @@ I'm currently strengthening my skills in **Machine Learning, and Python Librarie
 | Category            | Technologies                                                                                                                                                                                                                       |
 | :------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Programming**     | <img src="https://skillicons.dev/icons?i=python,html,css" height="40">                                                                                                                                                             |
-| **SQL & Databases** | <img src="https://skillicons.dev/icons?i=mysql" height="40">   `MSSQL` · `T-SQL`                                                                                                                                                   |
+| **SQL & Databases** | `MSSQL` · `T-SQL`                                                                                                                                                               |
 | **Data Analytics**  | `Excel` · `Power BI` · `Pandas` · `NumPy` · `Data Visualization` · `Statistics`                                                                                                                                                    |
-| **Tools**           | <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,vercel" height="40">                                                                                                                                            |
-| **AI Tools**        | <img src="https://cdn.simpleicons.org/anthropic" height="38">   <img src="https://cdn.simpleicons.org/openai" height="38">   <img src="https://cdn.simpleicons.org/googlegemini" height="38"> <br> `Claude` · `ChatGPT` · `Gemini` |
+| **Tools**           | `Git-Github`                                                                                                                                         |
+| **AI Tools**        | `Claude` · `ChatGPT` · `Gemini` . `AI Automation` |
 
 ---
 
@@ -61,8 +61,8 @@ I'm currently strengthening my skills in **Machine Learning, and Python Librarie
 | :--------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
 | **AI / ML**            | `Machine Learning` · `NLP` · `Semantic Similarity` · `Prompt Engineering` · `RAG` · `Vector Databases`                                    |
 | **AI Development**     | `LangChain` · `Agentic AI` · `AI Agents` · `LLM Applications`                                                                             |
-| **Development**        | <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" height="40">   `Streamlit`                                              |
-| **Cloud & Deployment** | <img src="https://skillicons.dev/icons?i=aws,docker" height="40">   `Cloud Deployment` · `Model Deployment`                               |
+| **Development**        | `Streamlit` . `TensorFlow` . `PyTorch`                                             |
+| **Cloud & Deployment** |   `Cloud Deployment` · `Model Deployment`                               |
 
 ---
 
