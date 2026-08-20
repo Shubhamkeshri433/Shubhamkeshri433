@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="./assets/shub_banner.png " alt="Shubham Keshri Banner" width="100%"/>
+<div align="Left">
 
 # Shubham Keshri
 
@@ -132,6 +130,10 @@ I'm currently strengthening my skills in **Machine Learning, and Python Librarie
 # 🎓 Certifications
 
 * **AI & Data Science:** Ongoing
+* **Bachelor of Computer Applications:** Ongoing
+* **[ISRO Hack2Skills](https://drive.google.com/file/d/1Xu6p4faiM5sOJzg8Qmb5vmFGqJL8vbr6/view?usp=drive_link):** Completed
+* **[Microsoft SQL](https://drive.google.com/file/d/12cSlOwf0kZPfNfHcyll8rAOVF5cjbjA-/view?usp=sharing):** Completed
+* **[Claude101](https://drive.google.com/file/d/14U5rw_JM-rBJ8tJqK0PutGIDoSEO3Mbl/view?usp=drive_link):** Completed
 
 ---
 
