@@ -33,7 +33,7 @@
 
 # 💫 About Me
 
-I am a **Computer Application undergraduate specializing in Data Analysis**, focused on building data-driven applications, business intelligence solutions, and AI-powered tools.
+I am a **Computer Application undergraduate** Intrested in Data Science & Analysis, focused on building data-driven applications, business intelligence solutions, and AI-powered tools.
 
 I enjoy working with data from end to end — from **SQL querying and data cleaning** to **Python analysis, Power BI dashboards, and machine learning applications**.
 
@@ -47,7 +47,7 @@ I'm currently strengthening my skills in **Machine Learning, and Python Librarie
 | :------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Programming**     | <img src="https://skillicons.dev/icons?i=python,html,css" height="40">                                                                                                                                                             |
 | **SQL & Databases** | `MSSQL` · `T-SQL`                                                                                                                                                               |
-| **Data Analytics**  | `Excel` · `Power BI` · `Pandas` · `NumPy` · `Data Visualization` · `Statistics`                                                                                                                                                    |
+| **Data Analytics**  | `Excel` · `Power BI` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Statistics`                                                                                                                                                    |
 | **Tools**           | `Git-Github`                                                                                                                                         |
 | **AI Tools**        | `Claude` · `ChatGPT` · `Gemini` . `AI Automation` |
 
