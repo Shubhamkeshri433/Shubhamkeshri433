@@ -5,7 +5,7 @@
 <br>
 
 ![](https://img.shields.io/badge/Bachelor_of_Computer_Application-Amity_University-1E3A8A?style=for-the-badge)
-![](https://img.shields.io/badge/Data_Science&Analysis-2563EB?style=for-the-badge)
+![](https://img.shields.io/badge/Intrest-Data_Science_&_Analysis-2563EB?style=for-the-badge)
 ![](https://img.shields.io/badge/CGPA-7.35-3B82F6?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Year-3nd_Year-0047AB?style=flat-square)
